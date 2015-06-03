@@ -1,0 +1,2 @@
+# Trial Folder
+The trial folder contains the front end designs for the website. It uses bootstrap framework to make it responsive . The initial home page is index.html(named as per convention)
